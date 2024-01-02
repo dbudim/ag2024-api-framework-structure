@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="SMOKE">
+    <test name="Dragons Service">
+        <classes>
+            <class name="com.dbudim.ag2024.smoke.BooksServiceSmoke"></class>
+        </classes>
+    </test>
+</suite>
